@@ -318,8 +318,8 @@ else:
 # ----------------------------------------------------------------------
 st.markdown(
     """
-    ---
-    **Built with** ❤️ using **Streamlit**, **pdfplumber**, and **pandas**.  
-    Got a question or a bug? Open an issue on the GitHub repo or drop a comment below.
+    Build by Rk kl group..
+    
     """
 )
+
